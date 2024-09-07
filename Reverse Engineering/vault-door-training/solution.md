@@ -23,10 +23,11 @@ We see a few lines of comment, lest see what informations programmer is providin
 
 ![image missing?](./content/vault-door-training-01.PNG)
 
-Is it safe to put the password in the source code? **Definitely not**
-What if somebody stole our source code? **He can steal all the informations included in source code**
+- Is it safe to put the password in the source code? **Definitely not**
+- What if somebody stole our source code? **He can steal all the informations included in source code**
 
 'The password is below'
+
 Then lets check what is below that comment.
 
 ![image missing?](./content/vault-door-training-02.PNG)
