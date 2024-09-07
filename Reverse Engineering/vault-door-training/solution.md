@@ -12,7 +12,7 @@ Unfortunately, our undercover agents have not been able to obtain the secret pas
 but one of our junior agents obtained the source code for each vault's computer! 
 You will need to read the source code for each level to figure out what the password is for that vault door. 
 As a warmup, we have created a replica vault in our training facility. 
-The source code for the training vault is here: VaultDoorTraining.java (you can get file from [picoCTF.org](picoCTF.org))
+The source code for the training vault is here: VaultDoorTraining.java (you can get file from [picoCTF.org](https://picoCTF.org))
 
 ## Solution
 
