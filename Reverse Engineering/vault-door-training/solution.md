@@ -35,6 +35,7 @@ Is this our flag? Lets check it out
 (dont forget to put flag in correct format: picoCTF{**flag**})
 
 ![image missing?](./content/vault-door-training-03.png)
+
 Yup, this was the flag. It wasn't to hard even without basic java knowledge, dont you think?
 
 
