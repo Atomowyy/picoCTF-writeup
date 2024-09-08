@@ -20,7 +20,9 @@ In this challenge, our job is to decode a qr code. We can get it in 2 ways:
 ## 1)Downloading file
 After unpacking .zip archive, we have our flag.png file.
 All we need to do, is use our phone or web browser to decode it. You can use whatever you want, in my case it will be [this site](https://zxing.org/w/decode.jspx)
+
 And we have our flag. Easy, right?
+
 ![image missing?](./content/scan_surprise_01.png)
 
 ## 2)Using SSH
