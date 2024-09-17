@@ -18,9 +18,9 @@ We need to use SSH protocol to get the flag. Use program called **PuTTY** if you
  - port
  - password
 
-'''bash
+~~~bash
 ssh username@server_address -p port
-'''
+~~~
 
 With all that informations, all we have to do is to copy and paste them into our SSH client and connect. Thats all, the flag is ours. 
 
