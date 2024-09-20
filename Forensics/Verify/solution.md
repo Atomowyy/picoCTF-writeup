@@ -26,6 +26,3 @@ Usage example:
 cat flag.txt
 ~~~
 
-
-![image missing?](./content/[])
-
