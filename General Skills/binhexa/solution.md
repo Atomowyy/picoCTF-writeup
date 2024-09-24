@@ -11,7 +11,9 @@ How well can you perfom basic binary operations?
 
 
 ## Solution
-This challenge is about basic binary operations - watch [this](https://youtu.be/C5EkxfNEMjE?si=trJGvu_8f14Hf-uf) before attempting it.
+This challenge is about basic binary operations. First, connect to the server using netcat. Complete all 6 tasks, and extra one. You will get a flag.
 
-First, connect to the server using netcat. Complete all 6 tasks, and extra one. You will get a flag.
-
+Usefull links:
+- [wikipedia](https://en.wikipedia.org/wiki/Bitwise_operation)
+- [geeksforgeeks (really usefull)](https://www.geeksforgeeks.org/binary-operators-in-programming/)
+- [bin to hex conversion](https://youtu.be/tSLKOKGQq0Y?si=bPWlBlc_FRP86Xsg)
