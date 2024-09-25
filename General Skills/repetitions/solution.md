@@ -30,7 +30,7 @@ And again
 
 ![image missing?](./content/repetitions_05.PNG)
 
-![image missing?](https://tenor.com/pl/view/more-kylo-ren-adam-driver-screaming-star-wars-gif-17734637)
+[image missing?](https://tenor.com/pl/view/more-kylo-ren-adam-driver-screaming-star-wars-gif-17734637)
 
 Repeat until you get the flag. 
 
