@@ -29,4 +29,4 @@ All we have to do is change **=** into **==**
 
 Now we can run the script again and receive our flag.
 
-![image missing?](./content/fixme2_py.png)
+![image missing?](./content/fixme2_py.jpg)
