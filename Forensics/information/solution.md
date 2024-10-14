@@ -19,5 +19,5 @@ Maybe there is something interesting in metadata?
 
 ![image missing?](./content/information_02.png)
 
-This look like a Base64 encoded string. Use [CyberChef](), select **From Base64**, paste this string. And thats it
+This look like a Base64 encoded string. Use [CyberChef](https://gchq.github.io/CyberChef/), select **From Base64**, paste this string. And thats it
 
