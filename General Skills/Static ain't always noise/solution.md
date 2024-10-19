@@ -33,3 +33,5 @@ strings static | grep picoCTF
 
 I found that installing **binutils** fixed this script, so running it will work this time.
 
+![image missing?](./content/static_aint_always_noise_03.png)
+![image missing?](./content/static_aint_always_noise_04.png)
