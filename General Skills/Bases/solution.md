@@ -15,7 +15,7 @@ We will need a [CyberChef](https://gchq.github.io/CyberChef/).
 
 In the search field, type in **from base**. You will see a list of different base decoding options. You can play and try every position from the list. If you dont want to waste your time - pick **from Base64**. 
 
-![image missing?](./content/[])
+![image missing?](./content/Bases_01.png)
 
 Paste output between picoCTF{} and thats it. 
 
