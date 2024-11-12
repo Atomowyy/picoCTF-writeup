@@ -9,6 +9,6 @@
 If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII?
 
 ## Solution
-Take a look at the [ASCII table](https://www.asciitable.com/). **70** stands for **"p"**.
+Take a look at the [ASCII table](https://www.asciitable.com/). **70** in hex stands for **"p"** as a char.
 
 So our flag is picoCTF{p}
