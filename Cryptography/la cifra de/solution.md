@@ -67,7 +67,7 @@ Bellaso’s second booklet appeared in 1555 as a continuation of the first. The 
 
 This was not enough, half of the message is still encrypted. Lets focus on this part, this time using different cipher.
 
-After a long research, i foudn a better [decryptor](https://www.boxentriq.com/code-breaking/vigenere-cipher). This will decrypt whole message at once.
+After a long research, i found a better [decryptor](https://www.boxentriq.com/code-breaking/vigenere-cipher). This will decrypt whole message at once.
 
 ~~~
 It is interesting how in history people often receive credit for things they did not create
