@@ -27,7 +27,7 @@ def arg133(arg432):
 a[81]+a[67]+a[94]+a[72]+a[82]+a[94]+a[72]+a[77]+a[66]+a[78]+a[81]+\
 a[81]+a[68]+a[66]+a[83])
 ~~~
-Thats the only "if" statement in whole source code. We could use dictionary from 2nd line of the code, but for what? We can simply print the phrase that program expect us to enter.
+Thats the only "if" statement in whole source code. We could use dictionary from 2nd line of the code to read the password, but for what? We can simply print the phrase that program expect us to enter.
 
 Paste this below the dictionary. 
 ~~~python
