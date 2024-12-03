@@ -38,6 +38,8 @@ We have to login as root to see content of that file. We dont know the password,
 - /etc/shadow
 - /etc/passwd
 
+You can watch [this](https://youtu.be/eq097dEB8Sw?si=_hRWsacxgCcdLvrA) really great video about cracking linux passwords to understand it better.
+
 Copy content of both files to your local machine, save as text files. Now we will be using **unshadow** utility of kali linux. This will combine both files.
 
 ~~~bash
