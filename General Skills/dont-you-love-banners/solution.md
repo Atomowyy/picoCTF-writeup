@@ -13,7 +13,7 @@ Can you abuse the banner?
 ## Solution
 After running the challenge, we see remote server, but with 2 ports. Lest try connect to the first one using netcat.
 
-![image missing?](./content/[dont-you-love-banners_01.png])
+![image missing?](./content/dont-you-love-banners_01.png)
 
 That *My_Passw@rd_@1234* is definitely a password for something. Lest check the second port. We are asked for the password, the one from previous connection works. Then, we are asked about 2 things - google it out or copy from below:
 
@@ -26,13 +26,13 @@ The first hacker ever was known for phreaking(making free phone calls), who was 
 John Draper
 ~~~
 
-![image missing?](./content/[dont-you-love-banners_02.png])
+![image missing?](./content/dont-you-love-banners_02.png)
 
 Bingo, we have access to the shell. From the description, we know that we should look for a flag in **/root** directory.
 
 There is a **flag.txt** file, however:
 
-![image missing?](./content/[dont-you-love-banners_03.png])
+![image missing?](./content/dont-you-love-banners_03.png)
 
 We have to login as root to see content of that file. We dont know the password, but we can crack it if we have access to specific files. Trying to print them will be succesfull:
 - /etc/shadow
@@ -57,7 +57,7 @@ sudo hashcat -m 1800 unshadowed /usr/share/wordlists/rockyou.txt
 
 You will quickly see this:
 
-![image missing?](./content/[dont-you-love-banners_04.png])
+![image missing?](./content/dont-you-love-banners_04.png)
 
 **iloveyou** is root password. How adorable.
 
