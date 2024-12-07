@@ -42,6 +42,6 @@ for pswd in dictionary:
     level_5_pw_check(pswd)
 ~~~
 
-And thats it.
+And thats it. You will find modified script [here](https://github.com/Atomowyy/picoCTF-writeup/blob/main/General%20Skills/PW%20Crack%205/level5_modified.py)
 
 ![image missing?](./content/pw_crack_5_01.png)
